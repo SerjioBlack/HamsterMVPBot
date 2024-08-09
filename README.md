@@ -50,7 +50,7 @@ To run this bot, you'll need:
 Once you have installed the dependencies and set the token:
 
 ```bash
-node index.js
+node index.js or npm run dev
 ```
 
 This will start the bot, and it will be ready to interact with users.
