@@ -1,4 +1,3 @@
-Here's a sample documentation for your Telegram bot project:
 
 ---
 
@@ -78,4 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the repository name and add any additional details specific to your project.
